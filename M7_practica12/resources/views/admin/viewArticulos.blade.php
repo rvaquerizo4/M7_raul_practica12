@@ -3,7 +3,7 @@
 <head>
     <title>Primera Vista</title>
 </head>
-<body style="background-color: blue;">
+<body>
     <h1>{{ $text }}</h1>
     <br>
     <a href="{{ route('entrada') }}">Ir a la pagina principal</a>
